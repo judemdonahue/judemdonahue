@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=judemdonahue&theme=black-ice)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=judemdonahue&theme=react)](https://git.io/streak-stats)
 
 [![Jude's GitHub stats](https://github-readme-stats.vercel.app/api?username=judemdonahue&theme=react)](https://github.com/judemdonahue/github-readme-stats)
 
