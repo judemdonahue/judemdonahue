@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/judemdonahue/github-readme-stats" <img src= "https://github-readme-stats.vercel.app/api?username=judemdonahue&theme=vue-dark"/></a>
+[![Jude's GitHub stats](https://github-readme-stats.vercel.app/api?username=judemdonahue&theme=vue-dark)](https://github.com/judemdonahue/github-readme-stats)
 </p>
