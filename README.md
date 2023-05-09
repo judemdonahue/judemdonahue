@@ -1,7 +1,5 @@
-<p align="center">
-<a href="https://git.io/streak-stats"> <img src= "https://streak-stats.demolab.com?user=judemdonahue&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/></a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=judemdonahue&theme=black-ice)](https://git.io/streak-stats)
 
+[![Jude's GitHub stats](https://github-readme-stats.vercel.app/api?username=judemdonahue&theme=react)](https://github.com/judemdonahue/github-readme-stats)
 
-[![Jude's GitHub stats](https://github-readme-stats.vercel.app/api?username=judemdonahue&theme=black-ice)](https://github.com/judemdonahue/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=judemdonahue&layout=compact&theme=black-ice)](https://github.com/judemdonahue/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=judemdonahue&layout=compact&theme=react)](https://github.com/judemdonahue/github-readme-stats)
