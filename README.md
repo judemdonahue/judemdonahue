@@ -3,5 +3,5 @@
 </p>
 
 
-[![Jude's GitHub stats](https://github-readme-stats.vercel.app/api?username=judemdonahue&theme=vue-dark)](https://github.com/judemdonahue/github-readme-stats)
+[![Jude's GitHub stats](https://github-readme-stats.vercel.app/api?username=judemdonahue&theme=black-ice)](https://github.com/judemdonahue/github-readme-stats)
 
